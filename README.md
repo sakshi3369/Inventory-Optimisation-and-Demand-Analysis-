@@ -1,3 +1,4 @@
+Notebook Link: https://www.kaggle.com/code/sakshichougule/inventory-optimization-demand-forecasting
 📦 Inventory Optimization & Demand Forecasting
 A end-to-end data science project that combines inventory analytics, SQL-based supply chain intelligence, and time series demand forecasting to help businesses reduce costs, prevent stockouts, and optimize reorder strategies.
 
